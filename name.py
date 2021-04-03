@@ -4,4 +4,4 @@ name = input("Name:")
 print("Hello, " + name)
 
 # or using fstring
-print(f"Hello, ${name}")
+print(f"Hello, {name}")
